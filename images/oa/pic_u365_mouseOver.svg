@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="590px" height="580px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip30">
+      <path d="M 10.5 589.5  L 10.5 19.5  C 10.5 14.505  14.505 10.5  19.5 10.5  L 590.5 10.5  C 595.495 10.5  599.5 14.505  599.5 19.5  L 599.5 589.5  L 10.5 589.5  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -10 -10 )">
+    <path d="M 10 10  L 600 10  L 600 590  L 10 590  L 10 10  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip30)" />
+    <path d="M 51 51  L 559 51  L 559 549  L 51 549  L 51 51  " fill-rule="nonzero" fill="#ffffff" stroke="none" mask="url(#clip30)" />
+    <path d="M 360.3 184  C 335.94 184  316.8 164.86  316.8 140.5  C 316.8 116.14  335.94 97  360.3 97  C 384.66 97  403.8 116.14  403.8 140.5  C 403.8 164.86  384.66 184  360.3 184  " fill-rule="nonzero" fill="#cccccc" stroke="none" mask="url(#clip30)" />
+    <path d="M 66 535  L 66 277.05  L 185.75 159.8  L 353.4 258.369491525424  L 449.2 230.15  L 545 258.369491525424  L 545 535  L 66 535  " fill-rule="nonzero" fill="#169bd5" stroke="none" mask="url(#clip30)" />
+    <path d="M 11 589  L 11 18  C 11 14.115  14.115 11  18 11  L 592 11  C 595.885 11  599 14.115  599 18  L 599 589  L 11 589  Z " stroke-width="2" stroke="#f1f4f9" fill="none" mask="url(#clip30)" />
+  </g>
+</svg>
